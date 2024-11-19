@@ -1,2 +1,10 @@
 hello_rust/target/*
 rustlings/
+ownerdata_types/target/*
+cargocr.sh
+sample/target/*
+convertFtoC/target/*     
+ownership/target/*       
+shadow/target/*
+data_types/target/*
+data_types/array/target/*
